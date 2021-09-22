@@ -24,7 +24,7 @@
 
 <p><img align="center" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasjain24&theme=radical" alt="ojasjain" /></p>
 </p>
-<h3 align="center">Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="center">
 
   <a href="https://twitter.com/OjasJain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ojas" height="40" width="40" /></a>
@@ -33,5 +33,5 @@
 
   <a href="https://www.linkedin.com/in/ojas-jain-028179197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ojas" height="40" width="40" /></a>
 
-  <a href="https://www.instagram.com/casual_photography___/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ojas" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/casual_photography___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ojas" height="40" width="40" /></a>
 </p>
