@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="40" height="40"/> </a>  
   
 <p>
-<img align="right" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/48055-working-online.gif" /> </a>
+<img align="right" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/animation_500_ktwjr3n0.gif" /> </a>
 
 <p>&nbsp;<img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojasjain24&show_icons=true&count_private=true&theme=radical" alt="ojasjain" /></p>
 
