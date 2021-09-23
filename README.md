@@ -1,11 +1,12 @@
-<h1 align="center">Well hello there! I'm Ojas Jain</h1>
+<h1 align="center">Welcome Onboard Amigo! I'm Ojas Jain</h1>
 
-<h5> I love to create new stuff, I like to build android applications, cross platform applications, games. Currently I am percuing B.Tech. from IIIT Kurnool. I am always open to new opertunities.<h5>
+<h4> I love to create new stuff, I like to build android applications, cross platform applications and games. Currently I am percuing B.Tech. from IIIT Kurnool. I am always open to new opertunities.<h4>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasjain24&label=Profile%20views&color=0e75b6&style=flat" alt="Ojas" /> </p>
 <p>
   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" height="40"/> </a>
   <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4.svg" alt="Flutter" width="40" height="40"/> </a> 
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="40" height="40"/> </a>
@@ -26,14 +27,15 @@
 
 <p><img align="center" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasjain24&theme=radical" alt="ojasjain" /></p>
 </p>
-<h3 align="left">Connect with me</h3>
-<p align="center">
-
+<h3 align="center">Connect with me</h3>
+<p align="center" style="display:flex;flex-direction:row;">
+  <span>
   <a href="https://twitter.com/OjasJain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ojas" height="40" width="40" /></a>
-  
+  </span><span>
   <a href="mailto:ojas24012002jain@gmail.com" target="blank"> <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="Ojas" height="40" width="40"/></a>
-
+</span><span>
   <a href="https://www.linkedin.com/in/ojas-jain-028179197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ojas" height="40" width="40" /></a>
-
+</span><span>
   <a href="https://www.instagram.com/casual_photography___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ojas" height="40" width="40" /></a>
+  </span>
 </p>
