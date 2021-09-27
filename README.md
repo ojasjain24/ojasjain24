@@ -22,10 +22,10 @@
 <p>
 <img align="right" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/animation_500_ktwjr3n0.gif" /> </a>
 
-<p>&nbsp;<img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojasjain24&count_private=true&show_icons=true&theme=radical" alt="ojasjain" /></p>
+<p>&nbsp;<img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojasjain24&count_private=true&show_icons=true&theme=gotham" alt="ojasjain" /></p>
 
 
-<p><img align="center" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasjain24&theme=radical" alt="ojasjain" /></p>
+<p><img align="center" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasjain24&theme=gotham" alt="ojasjain" /></p>
 </p>
 <h3 align="center">Connect with me</h3>
 <p align="center" style="display:flex;flex-direction:row;">
