@@ -20,6 +20,17 @@
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="40" height="40"/> </a>  
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <p>
+  
+ <h3 align="left">My Most Prominent Works:</h3>
+<p align="left">
+  <ul>
+    <li><a href ="https://play.google.com/store/apps/details?id=com.affixchat.chatappv0"> Affix </a></li>
+    <li><a href ="https://play.google.com/store/apps/details?id=com.Affix.EnigmaRunner"> Enigma Runner </a></li>
+    <li><a href ="https://pub.dev/packages/neon_widgets"> Neon Widgets </a></li>
+    <li><a href ="https://play.google.com/store/apps/details?id=com.affix.qrcodescanner"> Qr/barcode scanner </a></li>
+  </ul
+<p>
+  
 <img align="right" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/animation_500_ktwjr3n0.gif" /> </a>
 
 <p><img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojasjain24&count_private=true&theme=gotham" alt="ojasjain" /></p>
