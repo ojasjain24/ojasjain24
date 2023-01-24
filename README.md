@@ -38,15 +38,14 @@
       <li><a href ="https://play.google.com/store/apps/details?id=com.affix.qrcodescanner"> Qr/barcode scanner </a></li>
     </ul>
   </p>
-  
-<div align= "center" style="display: flex; flex-direction: row;">
-  <p><img align="left" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojasjain24&count_private=true&theme=gotham" alt="ojasjain"
-          /></p>
-  <p><img align="right" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasjain24&count_private=true&theme=gotham"
-          alt="ojasjain" /></p>
-  <img align="left" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/animation_500_ktwjr3n0.gif" /> </a>
-</div>
 
+<img align="right" height="400" width="400" src="https://github.com/ojasjain24/ojasjain24/blob/main/animation_500_ktwjr3n0.gif" /> </a>
+
+  <p><img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojasjain24&count_private=true&theme=gotham" alt="ojasjain"
+          /></p>
+  <p><img align="center" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojasjain24&count_private=true&theme=gotham"
+          alt="ojasjain" /></p>
+  
 
 <h3 align="center">Connect with me : </h3>
 <p align="center" style="display:flex;flex-direction:row;">
